@@ -40,6 +40,12 @@ sidebar:
   - name: GitHub
     icon: fa-brands fa-github
     link: https://github.com/BDHU
+  - name: Research
+    icon: fa-regular fa-folder
+    link: /research
+  - name: Blog
+    icon: fa-solid fa-pen
+    link: /blog
 
 # Exclude from processing.
 # The following items will not be processed, by default.
