@@ -3,7 +3,7 @@
 	"file": "colors-light.css",
 	"sources": [
 		"colors-light.scss",
-		"../../../../tmp/jekyll-remote-theme-20220123-47920-1pvht0i/_sass/colors.scss"
+		"../../../../tmp/jekyll-remote-theme-20220123-49870-1d2gd6n/_sass/colors.scss"
 	],
 	"sourcesContent": [
 		"@import \"colors\";\n\n:root {\n  @include colors;\n  @include light-colors;\n}",
