@@ -3,7 +3,7 @@
 	"file": "colors-auto.css",
 	"sources": [
 		"colors-auto.scss",
-		"../../../../tmp/jekyll-remote-theme-20220123-50260-1e7cm1e/_sass/colors.scss"
+		"../../../../tmp/jekyll-remote-theme-20220124-51614-8stkwz/_sass/colors.scss"
 	],
 	"sourcesContent": [
 		"@import \"colors\";\n\n:root {\n    @include colors;\n    @include light-colors;\n  }\n\n@media screen and (prefers-color-scheme: dark) {//we would not like to apply dark mode if content is on printer as that would use a lot of ink\n  :root{\n    @include dark-colors;\n  }\n}",
