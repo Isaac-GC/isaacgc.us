@@ -27,7 +27,7 @@ url: "https://isaacgc.us" # the base hostname & protocol for your site, e.g. htt
 github_username:  isaacgc
 
 # Build settings
-remote_theme: BDHU/minimalist
+remote_theme: Isaac-GC/minimalist
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
@@ -39,7 +39,7 @@ favicon: false
 sidebar:
   - name: GitHub
     icon: fa-brands fa-github
-    link: https://github.com/BDHU
+    link: https://github.com/Isaac-GC
   - name: Research
     icon: fa-regular fa-folder
     link: /research
