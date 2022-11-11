@@ -3,10 +3,10 @@
 	"file": "style.css",
 	"sources": [
 		"style.scss",
-		"../../../../../private/var/folders/h1/4pxw3zss0kv6zk3chyvmxxqm0000gn/T/jekyll-remote-theme-20221104-53929-33e07f/_sass/jekyll-theme-minimalist.scss",
-		"../../../../../private/var/folders/h1/4pxw3zss0kv6zk3chyvmxxqm0000gn/T/jekyll-remote-theme-20221104-53929-33e07f/_sass/fonts.scss",
-		"../../../../../private/var/folders/h1/4pxw3zss0kv6zk3chyvmxxqm0000gn/T/jekyll-remote-theme-20221104-53929-33e07f/_sass/rouge-github.scss",
-		"../../../../../private/var/folders/h1/4pxw3zss0kv6zk3chyvmxxqm0000gn/T/jekyll-remote-theme-20221104-53929-33e07f/_sass/colors.scss"
+		"../../../../../private/var/folders/h1/4pxw3zss0kv6zk3chyvmxxqm0000gn/T/jekyll-remote-theme-20221110-1625-ipmfgn/_sass/jekyll-theme-minimalist.scss",
+		"../../../../../private/var/folders/h1/4pxw3zss0kv6zk3chyvmxxqm0000gn/T/jekyll-remote-theme-20221110-1625-ipmfgn/_sass/fonts.scss",
+		"../../../../../private/var/folders/h1/4pxw3zss0kv6zk3chyvmxxqm0000gn/T/jekyll-remote-theme-20221110-1625-ipmfgn/_sass/rouge-github.scss",
+		"../../../../../private/var/folders/h1/4pxw3zss0kv6zk3chyvmxxqm0000gn/T/jekyll-remote-theme-20221110-1625-ipmfgn/_sass/colors.scss"
 	],
 	"sourcesContent": [
 		"@import \"jekyll-theme-minimalist\";\n\n.img-circle {\n    -webkit-border-radius: 8px;\n    -moz-border-radius: 8px;\n    border-radius: 8px; \n    margin-bottom: 10px;\n}\n\n.overlay {\n  position: fixed;\n  top: 0;\n  bottom: 0;\n  left: 0;\n  right: 0;\n  background: rgba(0, 0, 0, 0.7);\n  transition: opacity 500ms;\n  visibility: hidden;\n  opacity: 0;\n}\n\n.overlay:target {\n  visibility: visible;\n  opacity: 1;\n}\n\n.popup {\n  margin: 70px auto;\n  padding: 20px;\n  background: #fff;\n  border-radius: 5px;\n  width: 30%;\n  position: relative;\n  transition: all 1s ease-in-out;\n}\n\n.popup .close {\n  position: absolute;\n  top: 10px;\n  right: 10px;\n  transition: all 200ms;\n  font-size: 30px;\n  font-weight: bold;\n  text-decoration: none;\n  color: #333;\n}\n.popup .close:hover {\n  color: #06D85F;\n}\n\n.popup .content {\n  padding-right: 20px;\n  max-height: 30%;\n  overflow: auto;\n  font: 15px/1.5 \"Noto Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n}\n\n@media screen and (max-width: 700px){\n  .box{\n    width: 70%;\n  }\n  .popup{\n    width: 70%;\n  }\n}\n",
