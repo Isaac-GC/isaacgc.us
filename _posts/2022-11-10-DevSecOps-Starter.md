@@ -3,6 +3,8 @@ layout: post
 title: "Starting in DevSecOps"
 author: Isaac GC
 tags: [ DevSecOps, DevOps, Security]
+excerpt: |
+  A personal accounting and overview of DevSecOps
 ---
 
 ---

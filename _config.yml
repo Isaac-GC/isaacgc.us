@@ -21,10 +21,11 @@
 title: IsaacGC.us
 # email: nope@notgonnahappen.io
 description: >- # this means to ignore newlines until "baseurl:"
-  Some blurb or another
+  Cybersecurity Research, Reverse Engineering, etc
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://isaacgc.us" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Isaac-GC
+github: [metadata]
 
 # Build settings
 remote_theme: Isaac-GC/minimalist
@@ -34,6 +35,7 @@ plugins:
   - jekyll-seo-tag
 
 color-scheme: auto
+highlighter: rouge
 favicon: false
 
 sidebar:
